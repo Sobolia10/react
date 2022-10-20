@@ -1,0 +1,14 @@
+
+.border-table {
+    border: 1px solid black;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-left: 15%;
+}
+
+.navigation {
+    border-left: 1px solid black;
+    width: 70%;
+}
